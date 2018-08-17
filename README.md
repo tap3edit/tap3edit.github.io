@@ -1,3 +1,5 @@
+## List of repositories
+
 ### TAP::Tap3edit
 
 is a Perl Module that lets you edit GSM TAP3, RAP and NRTRDE files. It allows creating any kind of scripts for manipulating such files in any desired way. Check the [business case](TAP3-Tap3edit.html)
@@ -17,3 +19,9 @@ is a standalone command line application written in C that converts an ASN.1 fil
 ### mp
 
 is a library written in C language that allows using simple memory pools. It can be downloaded from [the repository](https://github.com/tap3edit/mp)
+
+## Donation
+
+blah blah blah
+
+[![paypal](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q85DQR4V8LNAN)
