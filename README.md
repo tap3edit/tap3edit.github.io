@@ -14,11 +14,11 @@ is a standalone command line application written in C that dumps on the console 
 
 ### indef2def
 
-is a standalone command line application written in C that converts an ASN.1 file indefinite length to definite length. It can e downloaded from [the repository](https://github.com/tap3edit/indef2def)
+is a standalone command line application written in C that converts an ASN.1 file with indefinite length to definite length. It can e downloaded from [the repository](https://github.com/tap3edit/indef2def)
 
 ### mp
 
-is a library written in C that allows using simple memory pools. It can be downloaded from [the repository](https://github.com/tap3edit/mp). Here the [manual](https://tap3edit.github.io/mp/MANUAL.html)
+is a library written in C that allows using simple memory pools. It can be downloaded from [the repository](https://github.com/tap3edit/mp). Here is also the [manual](https://tap3edit.github.io/mp/MANUAL.html)
 
 ## Donation
 
