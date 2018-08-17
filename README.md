@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Tap3edit
 
-You can use the [editor on GitHub](https://github.com/tap3edit/tap3edit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+offers different tools for the handling, viewing, editing and more of GSM TAP3/RAP/NRTRDE files 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### TAP::Tap3edit
 
-### Markdown
+is a Perl Module that lets you edit GSM TAP3, RAP and NRTRDE files. It allows creating any kind of scripts for manipulating such files in any desired way. Check the [business case](TAP3-Tap3edit.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### tap3xml and nrt2xml
 
-```markdown
-Syntax highlighted code block
+are two standalone command line applications, written in C++, that allow converting TAP3/RAP files (tap3xml) and NRTRDE (nrt2xml) to and from XML. They can be downloaded from [the repository](https://github.com/tap3edit/tap3xml)
 
-# Header 1
-## Header 2
-### Header 3
+### readasn
 
-- Bulleted
-- List
+is a standalone command line application written in C that dumps on the console the content of any ASN.1 files in human readable format. It can be downloaded from [the repository](https://github.com/tap3edit/readasn)
 
-1. Numbered
-2. List
+### indef2def
 
-**Bold** and _Italic_ and `Code` text
+is a standalone command line application written in C that converts an ASN.1 file indefinite length to definite length. It can e downloaded from [the repository](https://github.com/tap3edit/indef2def)
 
-[Link](url) and ![Image](src)
-```
+### mp
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tap3edit/tap3edit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+is a library written in C language that allows using simple memory pools. It can be downloaded from [the repository](https://github.com/tap3edit/mp)
