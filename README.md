@@ -18,7 +18,7 @@ is a standalone command line application written in C that converts an ASN.1 fil
 
 ### mp
 
-is a library written in C that allows using simple memory pools. It can be downloaded from [the repository](https://github.com/tap3edit/mp)
+is a library written in C that allows using simple memory pools. It can be downloaded from [the repository](https://github.com/tap3edit/mp). Here the [manual](https://tap3edit.github.io/mp/MANUAL.html)
 
 ## Donation
 
