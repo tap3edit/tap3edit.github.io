@@ -99,7 +99,8 @@ Ok. Until now it doesn't look that complicated. So now that we changed our struc
 ```
 		
 In that 7th line we see how we encode the changed structure into a new file. So after running the script we will have the original file and a file ".new" with the changes.
- 
+
+More examples can be found [here](https://github.com/tap3edit/TAP3-Tap3edit/tree/master/examples)
 
 ### What do I need to install it?
 Alright, since this Module is a Perl module you need of course Perl. If you are using unix or linux you have it possibly already installed in your system. Please check the version you are using. I built the Module with **Perl 5.8.6**. I did not try the module with older versions. So you may want to update to the latest version. 
