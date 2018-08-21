@@ -1,6 +1,6 @@
 ## List of repositories
 
-### TAP::Tap3edit
+### TAP3::Tap3edit
 
 is a Perl Module that lets you edit GSM TAP3, RAP and NRTRDE files. It allows creating any kind of scripts for manipulating such files in any desired way. Check the [business case](TAP3-Tap3edit.html)
 
