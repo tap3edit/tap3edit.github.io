@@ -22,8 +22,5 @@ is a library written in C that allows using simple memory pools. It can be downl
 
 ## Donation
 
-### Paypal
-[![paypal](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q85DQR4V8LNAN)
-
 ### Bitcoin
-3DEAsNMCyxkJs5jsTDTQCaHuNVQcqKP1c4
+1FCaSv1QRvL6TA21jZva1jfDjtU1zKznfh (BTC Network)
